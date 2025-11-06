@@ -145,13 +145,10 @@ Visualization plots include **accuracy and loss curves** to analyze training pro
 
 ```bash
 # Clone this repository
-git clone https://github.com/<your-username>/pandas-vs-bears-cnn.git
+git clone https://github.com/Abhijith-04-ops/pandas-vs-bears-cnn.git
 
 # Navigate into the project directory
 cd pandas-vs-bears-cnn
-
-# Install dependencies
-pip install -r requirements.txt
 
 # Run the Jupyter Notebook
 jupyter notebook model.ipynb
